@@ -1,0 +1,44 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Dados processados/temporários
+data/processed/
+
+# Ambiente virtual Python
+.venv/
+
+# Variáveis de ambiente / credenciais
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos locais do sistema
+.DS_Store
+Thumbs.db
