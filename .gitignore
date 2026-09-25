@@ -42,3 +42,10 @@ __pycache__/
 # Arquivos locais do sistema
 .DS_Store
 Thumbs.db
+
+# Logs gerados pelos pipelines
+logs/
+*.log
+
+# Cache local das APIs
+data/external/cache_ceps.json
