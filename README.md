@@ -131,7 +131,6 @@ As configurações são fornecidas por variáveis de ambiente e o banco utiliza 
 ## Business Intelligence
 
 - Microsoft Excel
-- Power Query
 - Power BI Desktop
 - DAX
 
@@ -950,7 +949,11 @@ DataOps-Analytics/
 │   └── 04_configuracao_ambiente.md
 │   ├── 05_dicionario_dados.md
 │   ├── 06_dicionario_metricas.md
-│   └── 07_arquitetura_qualidade.md
+│   ├── 07_arquitetura_qualidade.md
+│   └── images/
+│       ├── dashboard_executivo.png
+│       ├── dashboard_logistica.png
+│       └── dashboard_clientes.png
 │
 ├── excel/
 │   └── DataOps_Analytics_Excel.xlsx
