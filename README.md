@@ -1038,6 +1038,28 @@ excel/DataOps_Analytics_Excel.xlsx
 
 O modelo Power BI utiliza conexão com o PostgreSQL local e consome as tabelas do schema `analytics`.
 
+### Dashboards
+
+O relatório no Power BI foi desenvolvido em três páginas complementares, permitindo acompanhar indicadores executivos, logística, estoque, clientes e vendas.
+
+#### Visão Executiva
+
+![Dashboard Executivo](docs/images/dashboard_executivo.png)
+
+Visão consolidada dos principais KPIs do projeto, incluindo valor dos itens vendidos, unidades vendidas, pedidos concluídos, taxa de conclusão, estoque crítico, atraso e custo logístico.
+
+#### Logística, Entregas e Estoque
+
+![Dashboard de Logística](docs/images/dashboard_logistica.png)
+
+Análise operacional de estoque crítico, entregas, atrasos, custos logísticos e desempenho das transportadoras.
+
+#### Clientes, Segmentos e Vendas
+
+![Dashboard de Clientes](docs/images/dashboard_clientes.png)
+
+Análise de clientes e segmentos, com valor dos itens vendidos, ticket médio, unidades, pedidos concluídos e desempenho por canal de venda.
+
 ## 10. Databricks
 
 Os notebooks exportados estão em:
