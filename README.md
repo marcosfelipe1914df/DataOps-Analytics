@@ -1085,6 +1085,19 @@ A ordem lógica é:
 
 ---
 
+## 11. Gestão do Projeto com Jira
+
+O Jira Software foi utilizado para apoiar o planejamento e o acompanhamento das atividades do projeto DataOps Analytics.
+
+A organização do trabalho incluiu:
+
+- definição do escopo e dos objetivos do projeto;
+- organização das atividades em épicos e tarefas;
+- acompanhamento da evolução das etapas de desenvolvimento;
+- registro das atividades relacionadas à arquitetura, dados, análises e documentação.
+
+O uso do Jira permitiu aplicar conceitos de gestão de projetos em um cenário prático de Dados e BI, mantendo as atividades organizadas durante a evolução do projeto.
+
 # 🚧 Roadmap
 
 - [x] geração de dados sintéticos;
