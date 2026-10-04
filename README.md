@@ -948,6 +948,9 @@ DataOps-Analytics/
 │   ├── 02_arquitetura_tecnica.md
 │   ├── 03_fontes_dados.md
 │   └── 04_configuracao_ambiente.md
+│   ├── 05_dicionario_dados.md
+│   ├── 06_dicionario_metricas.md
+│   └── 07_arquitetura_qualidade.md
 │
 ├── excel/
 │   └── DataOps_Analytics_Excel.xlsx
